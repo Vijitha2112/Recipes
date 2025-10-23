@@ -1,0 +1,15 @@
+# streamlit
+# python-dotenv
+# google-generativeai
+# speechrecognition
+# pyttsx3
+# opencv-python
+# pyaudio
+
+
+streamlit
+google-generativeai
+python-dotenv
+pyttsx3
+SpeechRecognition
+pyaudio             
