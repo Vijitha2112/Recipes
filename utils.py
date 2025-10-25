@@ -11,3 +11,7 @@ def generate_recipe(ingredients):
     model = genai.GenerativeModel("gemini-2.5-flash")
     response = model.generate_content(prompt)
     return response.text
+
+
+
+
